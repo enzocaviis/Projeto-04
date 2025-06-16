@@ -1,13 +1,12 @@
 # Projeto4
 Código em C#. Calculadora. Programa que tem 8 funções:
-1-Soma
+1-Adição
 2-Subtração
 3-Divisão
 4-Multiplicação
-5-Raiz quadrada
-6-Potencia
-7-Maior entre dois numeros
-8-Menor entre dois numeros
+5-Potenciação
+6-Maior e menor entre dois numeros
+7-Radiciação
 Depois executa. 12/06/2025. 13 anos de idade
 
 *Como executar o código:
