@@ -1,5 +1,5 @@
 # Projeto4
-Código em C#. Calculadora. Programa que tem 8 funções:
+Código em C#. Calculadora. Programa que tem 7 funções:
 1-Adição
 2-Subtração
 3-Divisão
